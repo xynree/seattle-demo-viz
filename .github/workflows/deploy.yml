@@ -21,7 +21,7 @@ jobs:
       # 2. Fails if VITE_REPO_NAME is not set
       - name: Ensure VITE_REPO_NAME is set
         run: |
-          if [ -z "${VITE_REPO_NAME}" ]; then
+          if [ -z "$VITE_REPO_NAME" ]; then
             echo "Error: VITE_REPO_NAME secret is not set!"
             exit 1
           fi
