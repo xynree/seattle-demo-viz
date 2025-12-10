@@ -3,22 +3,18 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # run workflow on push to main branch
-  workflow_dispatch: # Allow manual triggers
-    
+      - main
+  workflow_dispatch:
+
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
-    
     env:
-      # Read repo name from github secret
       VITE_REPO_NAME: ${{ secrets.VITE_REPO_NAME }}
 
     steps:
-      # 1. Checkout repo
       - uses: actions/checkout@v3
 
-      # 2. Fails if VITE_REPO_NAME is not set
       - name: Ensure VITE_REPO_NAME is set
         run: |
           if [ -z "$VITE_REPO_NAME" ]; then
@@ -26,30 +22,31 @@ jobs:
             exit 1
           fi
 
-      # 3. Set up Node
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 20
           cache: "pnpm"
 
-      # 4. Install pnpm
-      - name: Install pnpm
-        run: npm install -g pnpm
-
-      # 5. Install dependencies
       - name: Install dependencies
         run: pnpm install
 
-      # 6. Build project
       - name: Build
         run: pnpm run build
         env:
           VITE_REPO_NAME: ${{ env.VITE_REPO_NAME }}
 
-      # 7. Deploy to GitHub Pages
-      - name: Deploy
-        run: pnpm run deploy
+      - name: Configure Git identity
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Deploy to gh-pages
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VITE_REPO_NAME: ${{ env.VITE_REPO_NAME }}
+        run: npx gh-pages -d dist --repo https://x-access-token:$GH_TOKEN@github.com/${{ github.repository }}.git

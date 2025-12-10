@@ -8,8 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "py": "python3 _scripts/run.py",
-    "deploy": "gh-pages -d dist"
+    "py": "python3 _scripts/run.py"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",

@@ -7,4 +7,7 @@ const repoName = process.env.VITE_REPO_NAME || "default-repo";
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: `/${repoName}/`,
+  build: {
+    outDir: "dist",
+  },
 });
