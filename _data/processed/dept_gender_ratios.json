@@ -1,0 +1,330 @@
+[
+  {
+    "Department": "City Auditor's Office",
+    "Female": 5.0,
+    "Male": 3.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.6666666667
+  },
+  {
+    "Department": "City Budget Office",
+    "Female": 23.0,
+    "Male": 17.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.3529411765
+  },
+  {
+    "Department": "Civil Rights Office",
+    "Female": 26.0,
+    "Male": 11.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 2.3636363636
+  },
+  {
+    "Department": "Civil Service Commissions",
+    "Female": 9.0,
+    "Male": 1.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 9.0
+  },
+  {
+    "Department": "Community Police Commission",
+    "Female": 6.0,
+    "Male": 2.0,
+    "Non-Specified": 1.0,
+    "X": null,
+    "ratio": 3.0
+  },
+  {
+    "Department": "Community Safety and Communication Center",
+    "Female": 109.0,
+    "Male": 71.0,
+    "Non-Specified": 1.0,
+    "X": 1.0,
+    "ratio": 1.5352112676
+  },
+  {
+    "Department": "Construction and Inspections",
+    "Female": 177.0,
+    "Male": 239.0,
+    "Non-Specified": 1.0,
+    "X": null,
+    "ratio": 0.7405857741
+  },
+  {
+    "Department": "Economic and Revenue Forecasts",
+    "Female": null,
+    "Male": 2.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": null
+  },
+  {
+    "Department": "Education and Early Learning",
+    "Female": 96.0,
+    "Male": 23.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 4.1739130435
+  },
+  {
+    "Department": "Emergency Management Office",
+    "Female": 7.0,
+    "Male": 6.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.1666666667
+  },
+  {
+    "Department": "Employees Retirement System",
+    "Female": 17.0,
+    "Male": 16.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.0625
+  },
+  {
+    "Department": "Ethics and Elections Commissions",
+    "Female": 7.0,
+    "Male": 5.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.4
+  },
+  {
+    "Department": "Finance and Administrative Service",
+    "Female": 262.0,
+    "Male": 322.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 0.8136645963
+  },
+  {
+    "Department": "Hearing Examiner",
+    "Female": 4.0,
+    "Male": 1.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 4.0
+  },
+  {
+    "Department": "Housing Office",
+    "Female": 42.0,
+    "Male": 22.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.9090909091
+  },
+  {
+    "Department": "Human Resources",
+    "Female": 64.0,
+    "Male": 29.0,
+    "Non-Specified": null,
+    "X": 1.0,
+    "ratio": 2.2068965517
+  },
+  {
+    "Department": "Human Services",
+    "Female": 359.0,
+    "Male": 109.0,
+    "Non-Specified": 2.0,
+    "X": 1.0,
+    "ratio": 3.2935779817
+  },
+  {
+    "Department": "Immigration and Refugee Affairs",
+    "Female": 11.0,
+    "Male": 1.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 11.0
+  },
+  {
+    "Department": "Information Technology",
+    "Female": 206.0,
+    "Male": 372.0,
+    "Non-Specified": 1.0,
+    "X": null,
+    "ratio": 0.5537634409
+  },
+  {
+    "Department": "Intergovernmental Relations",
+    "Female": 7.0,
+    "Male": 3.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 2.3333333333
+  },
+  {
+    "Department": "Law Department",
+    "Female": 140.0,
+    "Male": 73.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.9178082192
+  },
+  {
+    "Department": "Legislative Department",
+    "Female": 53.0,
+    "Male": 50.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.06
+  },
+  {
+    "Department": "Mayor's Office",
+    "Female": 24.0,
+    "Male": 14.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.7142857143
+  },
+  {
+    "Department": "Neighborhoods",
+    "Female": 49.0,
+    "Male": 13.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 3.7692307692
+  },
+  {
+    "Department": "Office of Arts and Culture",
+    "Female": 32.0,
+    "Male": 19.0,
+    "Non-Specified": 1.0,
+    "X": null,
+    "ratio": 1.6842105263
+  },
+  {
+    "Department": "Office of Economic Development and Special Events Office",
+    "Female": 34.0,
+    "Male": 19.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.7894736842
+  },
+  {
+    "Department": "Office of Labor Standards",
+    "Female": 22.0,
+    "Male": 9.0,
+    "Non-Specified": 1.0,
+    "X": null,
+    "ratio": 2.4444444444
+  },
+  {
+    "Department": "Office of the Employee Ombud",
+    "Female": 6.0,
+    "Male": 1.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 6.0
+  },
+  {
+    "Department": "Office of the Inspector General for Public Safety",
+    "Female": 14.0,
+    "Male": 8.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.75
+  },
+  {
+    "Department": "Parks and Recreation Department",
+    "Female": 763.0,
+    "Male": 1109.0,
+    "Non-Specified": 6.0,
+    "X": 1.0,
+    "ratio": 0.6880072137
+  },
+  {
+    "Department": "Planning and Community Office",
+    "Female": 33.0,
+    "Male": 17.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.9411764706
+  },
+  {
+    "Department": "Police Relief and Pension",
+    "Female": 4.0,
+    "Male": null,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": null
+  },
+  {
+    "Department": "Seattle Center",
+    "Female": 229.0,
+    "Male": 408.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 0.5612745098
+  },
+  {
+    "Department": "Seattle City Light",
+    "Female": 535.0,
+    "Male": 1258.0,
+    "Non-Specified": 7.0,
+    "X": null,
+    "ratio": 0.4252782194
+  },
+  {
+    "Department": "Seattle Department of Transportation",
+    "Female": 403.0,
+    "Male": 771.0,
+    "Non-Specified": 4.0,
+    "X": null,
+    "ratio": 0.5226977951
+  },
+  {
+    "Department": "Seattle Fire Department",
+    "Female": 124.0,
+    "Male": 965.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 0.1284974093
+  },
+  {
+    "Department": "Seattle Municipal Courts",
+    "Female": 134.0,
+    "Male": 83.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 1.6144578313
+  },
+  {
+    "Department": "Seattle Police Department",
+    "Female": 410.0,
+    "Male": 1187.0,
+    "Non-Specified": 3.0,
+    "X": null,
+    "ratio": 0.3454085931
+  },
+  {
+    "Department": "Seattle Public Library",
+    "Female": 382.0,
+    "Male": 251.0,
+    "Non-Specified": 19.0,
+    "X": 2.0,
+    "ratio": 1.5219123506
+  },
+  {
+    "Department": "Seattle Public Utilities",
+    "Female": 572.0,
+    "Male": 932.0,
+    "Non-Specified": 12.0,
+    "X": 1.0,
+    "ratio": 0.6137339056
+  },
+  {
+    "Department": "Sustainability and Environment",
+    "Female": 38.0,
+    "Male": 17.0,
+    "Non-Specified": null,
+    "X": null,
+    "ratio": 2.2352941176
+  }
+]
