@@ -1,13 +1,12 @@
 
 import './App.css'
+import GenderRatioChart from './GenderRatioChart'
 
 function App() {
 
   return (
     <>
-      Basic starter template with React, Typescript, Vite, TailwindCSS.
-
-      Includes d3 + GSAP
+     <GenderRatioChart/>
     </>
   )
 }

@@ -1,1 +1,371 @@
-[{"department":"City Auditor's Office","female_count":5.0,"male_count":3.0,"female_rate":76.17,"male_rate":81.73,"gender_ratio":0.6,"rate_ratio":0.9319711244},{"department":"City Budget Office","female_count":23.0,"male_count":17.0,"female_rate":73.2917391304,"male_rate":76.0352941176,"gender_ratio":0.7391304348,"rate_ratio":0.9639173489},{"department":"Civil Rights Office","female_count":26.0,"male_count":11.0,"female_rate":60.1838461538,"male_rate":63.4027272727,"gender_ratio":0.4230769231,"rate_ratio":0.9492311884},{"department":"Civil Service Commissions","female_count":9.0,"male_count":1.0,"female_rate":63.3588888889,"male_rate":74.88,"gender_ratio":0.1111111111,"rate_ratio":0.8461390076},{"department":"Community Police Commission","female_count":6.0,"male_count":2.0,"female_rate":69.555,"male_rate":76.26,"gender_ratio":0.3333333333,"rate_ratio":0.9120771046},{"department":"Community Safety and Communication Center","female_count":109.0,"male_count":71.0,"female_rate":50.7736697248,"male_rate":50.8012676056,"gender_ratio":0.6513761468,"rate_ratio":0.9994567482},{"department":"Construction and Inspections","female_count":177.0,"male_count":239.0,"female_rate":58.5390960452,"male_rate":65.6373221757,"gender_ratio":1.3502824859,"rate_ratio":0.8918568599},{"department":"Economic and Revenue Forecasts","female_count":null,"male_count":2.0,"female_rate":null,"male_rate":71.865,"gender_ratio":null,"rate_ratio":null},{"department":"Education and Early Learning","female_count":96.0,"male_count":23.0,"female_rate":55.06625,"male_rate":65.5739130435,"gender_ratio":0.2395833333,"rate_ratio":0.8397584869},{"department":"Emergency Management Office","female_count":7.0,"male_count":6.0,"female_rate":67.1471428571,"male_rate":63.295,"gender_ratio":0.8571428571,"rate_ratio":1.0608601447},{"department":"Employees Retirement System","female_count":17.0,"male_count":16.0,"female_rate":69.0705882353,"male_rate":67.271875,"gender_ratio":0.9411764706,"rate_ratio":1.0267379679},{"department":"Ethics and Elections Commissions","female_count":7.0,"male_count":5.0,"female_rate":60.6342857143,"male_rate":68.418,"gender_ratio":0.7142857143,"rate_ratio":0.8862329462},{"department":"Finance and Administrative Service","female_count":262.0,"male_count":322.0,"female_rate":57.1497709924,"male_rate":55.8153726708,"gender_ratio":1.2290076336,"rate_ratio":1.023907362},{"department":"Hearing Examiner","female_count":4.0,"male_count":1.0,"female_rate":57.895,"male_rate":108.26,"gender_ratio":0.25,"rate_ratio":0.5347773878},{"department":"Housing Office","female_count":42.0,"male_count":22.0,"female_rate":59.3819047619,"male_rate":57.6318181818,"gender_ratio":0.5238095238,"rate_ratio":1.0303666731},{"department":"Human Resources","female_count":64.0,"male_count":29.0,"female_rate":64.4771875,"male_rate":65.3279310345,"gender_ratio":0.453125,"rate_ratio":0.9869773385},{"department":"Human Services","female_count":359.0,"male_count":109.0,"female_rate":52.3528412256,"male_rate":52.362293578,"gender_ratio":0.3036211699,"rate_ratio":0.9998194817},{"department":"Immigration and Refugee Affairs","female_count":11.0,"male_count":1.0,"female_rate":59.4518181818,"male_rate":52.96,"gender_ratio":0.0909090909,"rate_ratio":1.1225796484},{"department":"Information Technology","female_count":206.0,"male_count":372.0,"female_rate":71.9620873786,"male_rate":73.7540053763,"gender_ratio":1.8058252427,"rate_ratio":0.9757041263},{"department":"Intergovernmental Relations","female_count":7.0,"male_count":3.0,"female_rate":77.3571428571,"male_rate":67.1233333333,"gender_ratio":0.4285714286,"rate_ratio":1.1524627729},{"department":"Law Department","female_count":140.0,"male_count":73.0,"female_rate":63.3078571429,"male_rate":70.2290410959,"gender_ratio":0.5214285714,"rate_ratio":0.9014484059},{"department":"Legislative Department","female_count":53.0,"male_count":50.0,"female_rate":57.8083018868,"male_rate":63.4032,"gender_ratio":0.9433962264,"rate_ratio":0.9117568496},{"department":"Mayor's Office","female_count":24.0,"male_count":14.0,"female_rate":68.9108333333,"male_rate":89.4057142857,"gender_ratio":0.5833333333,"rate_ratio":0.7707654246},{"department":"Neighborhoods","female_count":49.0,"male_count":13.0,"female_rate":58.1253061224,"male_rate":59.6969230769,"gender_ratio":0.2653061224,"rate_ratio":0.973673401},{"department":"Office of Arts and Culture","female_count":32.0,"male_count":19.0,"female_rate":53.063125,"male_rate":49.5305263158,"gender_ratio":0.59375,"rate_ratio":1.0713216464},{"department":"Office of Economic Development and Special Events Office","female_count":34.0,"male_count":19.0,"female_rate":56.5435294118,"male_rate":68.1494736842,"gender_ratio":0.5588235294,"rate_ratio":0.8296986955},{"department":"Office of Labor Standards","female_count":22.0,"male_count":9.0,"female_rate":59.2395454545,"male_rate":66.6188888889,"gender_ratio":0.4090909091,"rate_ratio":0.8892304637},{"department":"Office of the Employee Ombud","female_count":6.0,"male_count":1.0,"female_rate":62.3233333333,"male_rate":56.47,"gender_ratio":0.1666666667,"rate_ratio":1.1036538575},{"department":"Office of the Inspector General for Public Safety","female_count":14.0,"male_count":8.0,"female_rate":64.9314285714,"male_rate":58.09125,"gender_ratio":0.5714285714,"rate_ratio":1.1177488619},{"department":"Parks and Recreation Department","female_count":763.0,"male_count":1109.0,"female_rate":36.8878768021,"male_rate":37.9366185753,"gender_ratio":1.4534731324,"rate_ratio":0.972355423},{"department":"Planning and Community Office","female_count":33.0,"male_count":17.0,"female_rate":64.4890909091,"male_rate":66.2705882353,"gender_ratio":0.5151515152,"rate_ratio":0.9731178284},{"department":"Police Relief and Pension","female_count":4.0,"male_count":null,"female_rate":85.9725,"male_rate":null,"gender_ratio":null,"rate_ratio":null},{"department":"Seattle Center","female_count":229.0,"male_count":408.0,"female_rate":38.4737991266,"male_rate":40.9692892157,"gender_ratio":1.7816593886,"rate_ratio":0.9390887629},{"department":"Seattle City Light","female_count":535.0,"male_count":1258.0,"female_rate":59.8623551402,"male_rate":68.0658426073,"gender_ratio":2.3514018692,"rate_ratio":0.8794771775},{"department":"Seattle Department of Transportation","female_count":403.0,"male_count":771.0,"female_rate":59.5091315136,"male_rate":55.7458236057,"gender_ratio":1.9131513648,"rate_ratio":1.0675083381},{"department":"Seattle Fire Department","female_count":124.0,"male_count":965.0,"female_rate":56.1958870968,"male_rate":55.1776787565,"gender_ratio":7.7822580645,"rate_ratio":1.0184532652},{"department":"Seattle Municipal Courts","female_count":134.0,"male_count":83.0,"female_rate":50.4887313433,"male_rate":59.1513253012,"gender_ratio":0.6194029851,"rate_ratio":0.8535519887},{"department":"Seattle Police Department","female_count":410.0,"male_count":1187.0,"female_rate":58.1735853659,"male_rate":63.4632687447,"gender_ratio":2.8951219512,"rate_ratio":0.916649686},{"department":"Seattle Public Library","female_count":382.0,"male_count":251.0,"female_rate":43.3946596859,"male_rate":44.3411952191,"gender_ratio":0.6570680628,"rate_ratio":0.97865336},{"department":"Seattle Public Utilities","female_count":572.0,"male_count":932.0,"female_rate":57.5152622378,"male_rate":55.9899678112,"gender_ratio":1.6293706294,"rate_ratio":1.0272422808},{"department":"Sustainability and Environment","female_count":38.0,"male_count":17.0,"female_rate":60.4718421053,"male_rate":60.7664705882,"gender_ratio":0.4473684211,"rate_ratio":0.995151463}]
+[
+  {
+    "department": "City Auditor's Office",
+    "female_count": 5.0,
+    "male_count": 3.0,
+    "female_rate": 76.17,
+    "male_rate": 81.73,
+    "gender_ratio": 0.6,
+    "rate_ratio": 0.9319711244
+  },
+  {
+    "department": "City Budget Office",
+    "female_count": 23.0,
+    "male_count": 17.0,
+    "female_rate": 73.2917391304,
+    "male_rate": 76.0352941176,
+    "gender_ratio": 0.7391304348,
+    "rate_ratio": 0.9639173489
+  },
+  {
+    "department": "Civil Rights Office",
+    "female_count": 26.0,
+    "male_count": 11.0,
+    "female_rate": 60.1838461538,
+    "male_rate": 63.4027272727,
+    "gender_ratio": 0.4230769231,
+    "rate_ratio": 0.9492311884
+  },
+  {
+    "department": "Civil Service Commissions",
+    "female_count": 9.0,
+    "male_count": 1.0,
+    "female_rate": 63.3588888889,
+    "male_rate": 74.88,
+    "gender_ratio": 0.1111111111,
+    "rate_ratio": 0.8461390076
+  },
+  {
+    "department": "Community Police Commission",
+    "female_count": 6.0,
+    "male_count": 2.0,
+    "female_rate": 69.555,
+    "male_rate": 76.26,
+    "gender_ratio": 0.3333333333,
+    "rate_ratio": 0.9120771046
+  },
+  {
+    "department": "Community Safety and Communication Center",
+    "female_count": 109.0,
+    "male_count": 71.0,
+    "female_rate": 50.7736697248,
+    "male_rate": 50.8012676056,
+    "gender_ratio": 0.6513761468,
+    "rate_ratio": 0.9994567482
+  },
+  {
+    "department": "Construction and Inspections",
+    "female_count": 177.0,
+    "male_count": 239.0,
+    "female_rate": 58.5390960452,
+    "male_rate": 65.6373221757,
+    "gender_ratio": 1.3502824859,
+    "rate_ratio": 0.8918568599
+  },
+  {
+    "department": "Economic and Revenue Forecasts",
+    "female_count": null,
+    "male_count": 2.0,
+    "female_rate": null,
+    "male_rate": 71.865,
+    "gender_ratio": null,
+    "rate_ratio": null
+  },
+  {
+    "department": "Education and Early Learning",
+    "female_count": 96.0,
+    "male_count": 23.0,
+    "female_rate": 55.06625,
+    "male_rate": 65.5739130435,
+    "gender_ratio": 0.2395833333,
+    "rate_ratio": 0.8397584869
+  },
+  {
+    "department": "Emergency Management Office",
+    "female_count": 7.0,
+    "male_count": 6.0,
+    "female_rate": 67.1471428571,
+    "male_rate": 63.295,
+    "gender_ratio": 0.8571428571,
+    "rate_ratio": 1.0608601447
+  },
+  {
+    "department": "Employees Retirement System",
+    "female_count": 17.0,
+    "male_count": 16.0,
+    "female_rate": 69.0705882353,
+    "male_rate": 67.271875,
+    "gender_ratio": 0.9411764706,
+    "rate_ratio": 1.0267379679
+  },
+  {
+    "department": "Ethics and Elections Commissions",
+    "female_count": 7.0,
+    "male_count": 5.0,
+    "female_rate": 60.6342857143,
+    "male_rate": 68.418,
+    "gender_ratio": 0.7142857143,
+    "rate_ratio": 0.8862329462
+  },
+  {
+    "department": "Finance and Administrative Service",
+    "female_count": 262.0,
+    "male_count": 322.0,
+    "female_rate": 57.1497709924,
+    "male_rate": 55.8153726708,
+    "gender_ratio": 1.2290076336,
+    "rate_ratio": 1.023907362
+  },
+  {
+    "department": "Hearing Examiner",
+    "female_count": 4.0,
+    "male_count": 1.0,
+    "female_rate": 57.895,
+    "male_rate": 108.26,
+    "gender_ratio": 0.25,
+    "rate_ratio": 0.5347773878
+  },
+  {
+    "department": "Housing Office",
+    "female_count": 42.0,
+    "male_count": 22.0,
+    "female_rate": 59.3819047619,
+    "male_rate": 57.6318181818,
+    "gender_ratio": 0.5238095238,
+    "rate_ratio": 1.0303666731
+  },
+  {
+    "department": "Human Resources",
+    "female_count": 64.0,
+    "male_count": 29.0,
+    "female_rate": 64.4771875,
+    "male_rate": 65.3279310345,
+    "gender_ratio": 0.453125,
+    "rate_ratio": 0.9869773385
+  },
+  {
+    "department": "Human Services",
+    "female_count": 359.0,
+    "male_count": 109.0,
+    "female_rate": 52.3528412256,
+    "male_rate": 52.362293578,
+    "gender_ratio": 0.3036211699,
+    "rate_ratio": 0.9998194817
+  },
+  {
+    "department": "Immigration and Refugee Affairs",
+    "female_count": 11.0,
+    "male_count": 1.0,
+    "female_rate": 59.4518181818,
+    "male_rate": 52.96,
+    "gender_ratio": 0.0909090909,
+    "rate_ratio": 1.1225796484
+  },
+  {
+    "department": "Information Technology",
+    "female_count": 206.0,
+    "male_count": 372.0,
+    "female_rate": 71.9620873786,
+    "male_rate": 73.7540053763,
+    "gender_ratio": 1.8058252427,
+    "rate_ratio": 0.9757041263
+  },
+  {
+    "department": "Intergovernmental Relations",
+    "female_count": 7.0,
+    "male_count": 3.0,
+    "female_rate": 77.3571428571,
+    "male_rate": 67.1233333333,
+    "gender_ratio": 0.4285714286,
+    "rate_ratio": 1.1524627729
+  },
+  {
+    "department": "Law Department",
+    "female_count": 140.0,
+    "male_count": 73.0,
+    "female_rate": 63.3078571429,
+    "male_rate": 70.2290410959,
+    "gender_ratio": 0.5214285714,
+    "rate_ratio": 0.9014484059
+  },
+  {
+    "department": "Legislative Department",
+    "female_count": 53.0,
+    "male_count": 50.0,
+    "female_rate": 57.8083018868,
+    "male_rate": 63.4032,
+    "gender_ratio": 0.9433962264,
+    "rate_ratio": 0.9117568496
+  },
+  {
+    "department": "Mayor's Office",
+    "female_count": 24.0,
+    "male_count": 14.0,
+    "female_rate": 68.9108333333,
+    "male_rate": 89.4057142857,
+    "gender_ratio": 0.5833333333,
+    "rate_ratio": 0.7707654246
+  },
+  {
+    "department": "Neighborhoods",
+    "female_count": 49.0,
+    "male_count": 13.0,
+    "female_rate": 58.1253061224,
+    "male_rate": 59.6969230769,
+    "gender_ratio": 0.2653061224,
+    "rate_ratio": 0.973673401
+  },
+  {
+    "department": "Office of Arts and Culture",
+    "female_count": 32.0,
+    "male_count": 19.0,
+    "female_rate": 53.063125,
+    "male_rate": 49.5305263158,
+    "gender_ratio": 0.59375,
+    "rate_ratio": 1.0713216464
+  },
+  {
+    "department": "Office of Economic Development and Special Events Office",
+    "female_count": 34.0,
+    "male_count": 19.0,
+    "female_rate": 56.5435294118,
+    "male_rate": 68.1494736842,
+    "gender_ratio": 0.5588235294,
+    "rate_ratio": 0.8296986955
+  },
+  {
+    "department": "Office of Labor Standards",
+    "female_count": 22.0,
+    "male_count": 9.0,
+    "female_rate": 59.2395454545,
+    "male_rate": 66.6188888889,
+    "gender_ratio": 0.4090909091,
+    "rate_ratio": 0.8892304637
+  },
+  {
+    "department": "Office of the Employee Ombud",
+    "female_count": 6.0,
+    "male_count": 1.0,
+    "female_rate": 62.3233333333,
+    "male_rate": 56.47,
+    "gender_ratio": 0.1666666667,
+    "rate_ratio": 1.1036538575
+  },
+  {
+    "department": "Office of the Inspector General for Public Safety",
+    "female_count": 14.0,
+    "male_count": 8.0,
+    "female_rate": 64.9314285714,
+    "male_rate": 58.09125,
+    "gender_ratio": 0.5714285714,
+    "rate_ratio": 1.1177488619
+  },
+  {
+    "department": "Parks and Recreation Department",
+    "female_count": 763.0,
+    "male_count": 1109.0,
+    "female_rate": 36.8878768021,
+    "male_rate": 37.9366185753,
+    "gender_ratio": 1.4534731324,
+    "rate_ratio": 0.972355423
+  },
+  {
+    "department": "Planning and Community Office",
+    "female_count": 33.0,
+    "male_count": 17.0,
+    "female_rate": 64.4890909091,
+    "male_rate": 66.2705882353,
+    "gender_ratio": 0.5151515152,
+    "rate_ratio": 0.9731178284
+  },
+  {
+    "department": "Police Relief and Pension",
+    "female_count": 4.0,
+    "male_count": null,
+    "female_rate": 85.9725,
+    "male_rate": null,
+    "gender_ratio": null,
+    "rate_ratio": null
+  },
+  {
+    "department": "Seattle Center",
+    "female_count": 229.0,
+    "male_count": 408.0,
+    "female_rate": 38.4737991266,
+    "male_rate": 40.9692892157,
+    "gender_ratio": 1.7816593886,
+    "rate_ratio": 0.9390887629
+  },
+  {
+    "department": "Seattle City Light",
+    "female_count": 535.0,
+    "male_count": 1258.0,
+    "female_rate": 59.8623551402,
+    "male_rate": 68.0658426073,
+    "gender_ratio": 2.3514018692,
+    "rate_ratio": 0.8794771775
+  },
+  {
+    "department": "Seattle Department of Transportation",
+    "female_count": 403.0,
+    "male_count": 771.0,
+    "female_rate": 59.5091315136,
+    "male_rate": 55.7458236057,
+    "gender_ratio": 1.9131513648,
+    "rate_ratio": 1.0675083381
+  },
+  {
+    "department": "Seattle Fire Department",
+    "female_count": 124.0,
+    "male_count": 965.0,
+    "female_rate": 56.1958870968,
+    "male_rate": 55.1776787565,
+    "gender_ratio": 7.7822580645,
+    "rate_ratio": 1.0184532652
+  },
+  {
+    "department": "Seattle Municipal Courts",
+    "female_count": 134.0,
+    "male_count": 83.0,
+    "female_rate": 50.4887313433,
+    "male_rate": 59.1513253012,
+    "gender_ratio": 0.6194029851,
+    "rate_ratio": 0.8535519887
+  },
+  {
+    "department": "Seattle Police Department",
+    "female_count": 410.0,
+    "male_count": 1187.0,
+    "female_rate": 58.1735853659,
+    "male_rate": 63.4632687447,
+    "gender_ratio": 2.8951219512,
+    "rate_ratio": 0.916649686
+  },
+  {
+    "department": "Seattle Public Library",
+    "female_count": 382.0,
+    "male_count": 251.0,
+    "female_rate": 43.3946596859,
+    "male_rate": 44.3411952191,
+    "gender_ratio": 0.6570680628,
+    "rate_ratio": 0.97865336
+  },
+  {
+    "department": "Seattle Public Utilities",
+    "female_count": 572.0,
+    "male_count": 932.0,
+    "female_rate": 57.5152622378,
+    "male_rate": 55.9899678112,
+    "gender_ratio": 1.6293706294,
+    "rate_ratio": 1.0272422808
+  },
+  {
+    "department": "Sustainability and Environment",
+    "female_count": 38.0,
+    "male_count": 17.0,
+    "female_rate": 60.4718421053,
+    "male_rate": 60.7664705882,
+    "gender_ratio": 0.4473684211,
+    "rate_ratio": 0.995151463
+  }
+]
