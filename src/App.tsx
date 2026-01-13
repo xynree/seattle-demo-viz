@@ -1,12 +1,14 @@
 
 import './App.css'
-import GenderRatioChart from './GenderRatioChart'
+import GenderRatioChart from './components/GenderRatioChart'
+import TitleCard from './components/TitleCard'
 
 function App() {
 
   return (
     <>
-     <GenderRatioChart/>
+    <TitleCard/>
+    <GenderRatioChart/>
     </>
   )
 }

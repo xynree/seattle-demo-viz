@@ -1,4 +1,4 @@
-import genderData from "../_data/processed/dept_gender.json";
+import genderData from "../../_data/processed/dept_gender.json";
 import { useRef, useEffect } from "react";
 import * as d3 from "d3";
 
