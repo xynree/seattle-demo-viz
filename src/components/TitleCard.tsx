@@ -9,7 +9,7 @@ export default function TitleCard() {
   const containerRef = useRef<HTMLDivElement>(null);
   const titleRef = useRef<HTMLHeadingElement>(null);
 
-  const numBoxes = 5;
+  const numBoxes = 8;
 
   useGSAP(
     () => {
@@ -23,31 +23,27 @@ export default function TitleCard() {
       gsap
         .timeline({
           repeat: -1, // Infinite repeat
-          yoyo: true, // Play backwards on alternate iterations
-          ease: "power2.inOut",
+          ease: "in.out",
+          yoyo: true,
         })
-        .to(boxes, {
-          x: 380,
-          rotation: 180,
-          backgroundColor: "blue",
-          duration: 1,
-          stagger: 0.3,
-        })
-        .to(boxes, {
-          duration: 0.5,
-          stagger: 0.3,
-        })
-        .to(boxes, {
-          x: 0,
-          rotation: 0,
-          backgroundColor: "red",
-          duration: 1,
-          stagger: 0.3,
-        })
-        .to(boxes, {
-          duration: 0.5,
-          stagger: 0.3,
-        });
+        .fromTo(
+          boxes,
+          {
+            x: 0,
+            rotation: 0,
+            backgroundColor: "red",
+            duration: 0.5,
+            stagger: 0.05,
+          },
+          {
+            x: 440,
+            y: 0,
+            rotation: 180,
+            backgroundColor: "blue",
+            duration: 0.5,
+            stagger: 0.05,
+          }
+        );
 
       gsap
         .timeline({
@@ -59,7 +55,10 @@ export default function TitleCard() {
             pin: false,
           },
         })
-
+        .to(boxes, {
+          opacity: 0,
+          ease: "out",
+        })
         .to(titleRef.current, { opacity: 0, ease: "out" });
     },
     { scope: containerRef }
@@ -67,16 +66,21 @@ export default function TitleCard() {
 
   return (
     <div className="flex flex-col items-center justify-center h-screen w-screen">
-      <div ref={containerRef} className="flex flex-col">
-        {Array.from({
-          length: numBoxes,
-        }).map((_, i) => (
-          <div
-            key={i}
-            className="stagger-box w-8 h-8 rounded-xl bg-red-500"
-          ></div>
-        ))}
-        <h2 ref={titleRef} className="text-2xl font-bold">
+      <div ref={containerRef} className="relative">
+        <div className="w-96">
+          {Array.from({
+            length: numBoxes,
+          }).map((_, i) => (
+            <div
+              key={i}
+              className={`stagger-box w-2 h-2 rounded-xs bg-red-500`}
+            ></div>
+          ))}
+        </div>
+        <h2
+          ref={titleRef}
+          className="text-2xl font-bold z-10 whitespace-nowrap"
+        >
           seattle city employees: demographics
         </h2>
       </div>
